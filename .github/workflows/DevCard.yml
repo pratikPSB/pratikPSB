@@ -1,3 +1,16 @@
+name: DevCard
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
 jobs:
   devcard:
     runs-on: ubuntu-latest
@@ -10,4 +23,4 @@ jobs:
           devcard_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: devcard
           commit_filename: devcard.png
-          commit_message: "chore: update ${filename}"
+          commit_message: "update ${filename}"
