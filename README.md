@@ -24,4 +24,4 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Just%20Delvelop%20good%20things.)
 
 ## 📖 Daily.dev developer card:
-<a href="https://app.daily.dev/pratikbharad"><p align="center"><img src="https://github.com/pratikPSB/pratikPSB/blob/main/devcard.svg" width="400" alt="pratik bharad's Dev Card"/></p></a>
+<a href="https://app.daily.dev/pratikbharad"><p align="center"><img src="https://github.com/pratikPSB/pratikPSB/blob/main/devcard.svg" width="300" alt="pratik bharad's Dev Card"/></p></a>
