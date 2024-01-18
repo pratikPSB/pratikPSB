@@ -23,7 +23,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Just%20Delvelop%20good%20things.)
 
 ## 📖 Daily.dev developer card:
-<a href="https://app.daily.dev/pratikbharad"><p align="center"><img src="https://github.com/pratikPSB/pratikPSB/blob/main/devcard.svg" width="300" alt="pratik bharad's Dev Card"/></p></a>
+<a href="https://app.daily.dev/pratikbharad"><img src="https://github.com/pratikPSB/pratikPSB/blob/main/devcard.svg" width="300" alt="pratik bharad's Dev Card"/></a>
 
 ## 📞 Reach me:
 [![Linked-in](https://img.shields.io/badge/linkedin-23272A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https%3A%2F%2Fin.linkedin.com%2Fin%2Fpratik-bharad)](https://www.linkedin.com/in/pratik-bharad)
