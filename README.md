@@ -30,3 +30,6 @@
 [![skype](https://img.shields.io/badge/skype-23272A?style=for-the-badge&logo=skype&logoColor=00aff0&link=https://join.skype.com/invite/U6UcDxdICnCn)](https://join.skype.com/invite/U6UcDxdICnCn)
 [![email](https://img.shields.io/badge/mail-23272A?style=for-the-badge&logo=gmail&logoColor=c71610&link=mailto:pratikbharad99@gmail.com)](mailto:pratikbharad99@gmail.com)
 [![whatsapp](https://img.shields.io/badge/whatsapp-23272A?style=for-the-badge&logo=whatsapp&logoColor=25d366&link=https://wa.link/wje2zk)](https://wa.link/wje2zk)
+
+### 👀 Profile views:
+[![Profile Views](https://komarev.com/ghpvc/?username=pratikPSB&label=Profile%20views&color=23272A&style=for-the-badge)](https://github.com/pratikPSB)
