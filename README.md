@@ -13,8 +13,15 @@
 ![Jira](https://img.shields.io/badge/jira-23272a?style=for-the-badge&logo=jira&logoColor=0255CF)
 ![Figma](https://img.shields.io/badge/figma-23272a?style=for-the-badge&logo=figma&logoColor=f24e1e)
 
-## 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=pratikPSB&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=23272A)
+## :zap: GitHub Stats ❤️ 
+<div>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratikPSB&theme=nord_dark"/>
+  &nbsp; &nbsp; &nbsp;
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikPSB&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
+   <br />
+   <br />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikPSB&theme=nord_dark"/>
+</div>
 
 ## 🏆 Github Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=pratikPSB&theme=discord&margin-w=5&no-frame=true)
