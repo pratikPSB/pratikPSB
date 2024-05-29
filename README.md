@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=25&duration=1&pause=1000000000000000000&color=3DDC84&background=23272A00&center=true&vCenter=true&random=false&width=1024&lines=%F0%9F%91%8B+Hi+there!+Pratik+Bharad+Here...)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=25&duration=5002&pause=1000&color=3DDC84&background=23272A00&center=true&vCenter=true&random=false&width=1024&lines=Experienced+Android+Developer;4%2B+Years+of+experience+in+Android;Just+develop+good+things;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&weight=700&size=36&duration=5002&pause=1000&color=3DDC84&background=23272A00&center=true&vCenter=true&random=false&width=1024&lines=Experienced+Android+Developer;4%2B+Years+of+experience+in+Android;Just+develop+good+things;Always+learning+new+things)](https://git.io/typing-svg)
 
 ## 💻 Tech Stack:
 ![android](https://img.shields.io/badge/android-23272a?style=for-the-badge&logo=android&logoColor=3DDC84)
@@ -23,9 +23,6 @@
 
 ## 🏆 Github Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=pratikPSB&theme=discord&margin-w=5&no-frame=true)
-
-## ✍️ Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Just%20Delvelop%20good%20things.)
 
 ## 📖 Daily.dev developer card:
 <a href="https://app.daily.dev/pratikbharad"><img src="https://github.com/pratikPSB/pratikPSB/blob/main/devcard.png" width="652" alt="pratik bharad's Dev Card"/></a>
