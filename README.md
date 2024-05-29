@@ -19,6 +19,9 @@
 ## 🏆 Github Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=pratikPSB&theme=discord&margin-w=5&no-frame=true)
 
+## :zap: Stackoverflow Stats ❤️ 
+[![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=12640900)](https://stackoverflow.com/users/12640900/pratik-psb)
+
 ## ✍️ Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Just%20Delvelop%20good%20things.)
 
