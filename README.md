@@ -21,9 +21,6 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikPSB&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
 </div>
 
-## 🏆 Github Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=pratikPSB&theme=discord&margin-w=5&no-frame=true)
-
 ## 📖 Daily.dev developer card:
 <a href="https://app.daily.dev/pratikbharad"><img src="https://github.com/pratikPSB/pratikPSB/blob/main/devcard.png" width="652" alt="pratik bharad's Dev Card"/></a>
 
