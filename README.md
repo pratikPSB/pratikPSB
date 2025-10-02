@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=1&pause=1000000000000000000&color=3DDC84&background=23272A00&center=true&vCenter=true&random=false&width=1024&lines=%F0%9F%91%8B+Hi+there!+Pratik+Bharad+Here...)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kumar+One&size=40&duration=5002&pause=1000&color=3DDC84&background=23272A00&center=true&vCenter=true&random=false&width=1024&lines=Experienced+Android+Developer;4%2B+Years+of+experience+in+Android;Just+develop+good+things;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Funnel+Display&size=40&duration=5002&pause=1000&color=3DDC84&background=23272A00&center=true&vCenter=true&random=false&width=1024&lines=Experienced+Mobile+Developer;5%2B+Years+of+experience+with+Android;2%2B+Years+of+experience+with+Flutter;Just+develop+good+things;Always+learning+new+things)](https://git.io/typing-svg)
 
 ## 💻 Tech Stack:
 ![android](https://img.shields.io/badge/android-23272a?style=for-the-badge&logo=android&logoColor=3DDC84)
