@@ -14,11 +14,18 @@
 ![Figma](https://img.shields.io/badge/figma-23272a?style=for-the-badge&logo=figma&logoColor=f24e1e)
 
 ## 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=pratikPSB&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=23272A)
-<div>
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratikPSB&theme=nord_dark"/>
-  &nbsp; &nbsp; &nbsp;
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikPSB&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
+<!--
+[![GitHub Streak](https://github-readme-streak-stats-gamma-wine.vercel.app?user=pratikPSB&theme=transparent&border_radius=2&date_format=j%20M%5B%20Y%5D&background=2E3440&currStreakNum=FFFFFF&sideNums=EBEBEB&currStreakLabel=8FBCBB&sideLabels=8FBCBB&ring=8FBCBB&fire=EB5454)](https://github-readme-streak-stats-gamma-wine.vercel.app)-->
+<div align="center">
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gamma-wine.vercel.app?user=pratikPSB&theme=transparent&border_radius=2&date_format=j%20M%5B%20Y%5D&background=2E3440&currStreakNum=FFFFFF&sideNums=EBEBEB&currStreakLabel=8FBCBB&sideLabels=8FBCBB&ring=8FBCBB&fire=EB5454" alt="GitHub Streak"/></a>
+   <br><br>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikPSB&theme=nord_dark"/>
+   <br><br>
+   <div>
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratikPSB&theme=nord_dark"/>
+      &nbsp; &nbsp;
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratikPSB&theme=nord_dark"/>
+   </div>
 </div>
 
 ## 📖 Daily.dev developer card:
