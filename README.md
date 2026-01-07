@@ -15,9 +15,9 @@
 
 ## 📊 GitHub Stats:
 <!--
-[![GitHub Streak](https://github-readme-streak-stats-gamma-wine.vercel.app?user=pratikPSB&theme=transparent&border_radius=2&date_format=j%20M%5B%20Y%5D&background=2E3440&currStreakNum=FFFFFF&sideNums=EBEBEB&currStreakLabel=8FBCBB&sideLabels=8FBCBB&ring=8FBCBB&fire=EB5454)](https://github-readme-streak-stats-gamma-wine.vercel.app)-->
+[![GitHub Streak](https://github-readme-streak-stats-psb.vercel.app?user=pratikPSB&theme=transparent&border_radius=2&date_format=j%20M%5B%20Y%5D&background=2E3440&currStreakNum=FFFFFF&sideNums=EBEBEB&currStreakLabel=8FBCBB&sideLabels=8FBCBB&ring=8FBCBB&fire=EB5454)](https://github-readme-streak-stats-psb.vercel.app)-->
 <div align="center">
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gamma-wine.vercel.app?user=pratikPSB&theme=transparent&border_radius=2&date_format=j%20M%5B%20Y%5D&background=2E3440&currStreakNum=FFFFFF&sideNums=EBEBEB&currStreakLabel=8FBCBB&sideLabels=8FBCBB&ring=8FBCBB&fire=EB5454" alt="GitHub Streak"/></a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-psb.vercel.app?user=pratikPSB&theme=transparent&border_radius=2&date_format=j%20M%5B%20Y%5D&background=2E3440&currStreakNum=FFFFFF&sideNums=EBEBEB&currStreakLabel=8FBCBB&sideLabels=8FBCBB&ring=8FBCBB&fire=EB5454" alt="GitHub Streak"/></a>
    <br><br>
    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikPSB&theme=nord_dark"/>
    <br><br>
